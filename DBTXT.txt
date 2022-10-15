@@ -1,0 +1,37 @@
+Base de datos libreria Spring : 
+
+
+create database biblioteca;
+
+use biblioteca;
+
+create table biblioteca (
+idBiblioteca int primary key auto_increment,
+direccion varchar(50),
+nombre varchar(50),
+telefono bigint,
+correo varchar(50),
+claveTrabajo varchar(50));
+
+create table empleado (
+idEmpleado int primary key auto_increment,
+nombre varchar(50),
+apellidoP varchar(50),
+apellidoM varchar(50),
+telefono bigint,
+direccion varchar (50),
+NIMSS varchar(50));
+
+create table visitante (
+idVisitante int primary key auto_increment,
+nombre varchar(50),
+apellidoP varchar(50),
+apellidoM varchar(50),
+ocupacion varchar(50),
+fechaVisita date,
+horaEntrada time,
+horaSalida time,
+motivoVisita varchar(50),
+numeroAfiliacion varchar(50),
+telefono bigint,
+direccion varchar(50));

@@ -35,6 +35,18 @@
                     <li class="nav-item">
                         <a class="nav-link" href="listaEmpleado.htm">Lista Empleado</a>
                     </li> 
+                    <li class="nav-item active">
+                        <a class="nav-link" href="altaVisitante.htm">Alta Visitante</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="listaVisitante.htm">Lista Visitante</a>
+                    </li> 
+                    <li class="nav-item">
+                        <a class="nav-link" href="altaLibro.htm">Alta Libro</a>
+                    </li> 
+                    <li class="nav-item">
+                        <a class="nav-link" href="listaLibro.htm">Lista Libro</a>
+                    </li> 
                 </ul>
             </div>
         </nav>
@@ -42,7 +54,7 @@
             <div class="card boarder-info">
                 <div class="card-header bg-info text-white">
                     <h4>Lista general</h4>
-                    
+
                 </div>
                 <div class="card-body">
                     <table class="table table-hover">
@@ -82,10 +94,10 @@
                                     <td>
                                         <a href="editarVisitante.htm?idVisitante=${dato.idVisitante}"
                                            class="btn btn-warning">Editar</a>
-                                           
+
                                         <a href="eliminarVisitante.htm?idVisitante=${dato.idVisitante}"
                                            class="btn btn-danger">Eliminar</a>
-                                        
+
                                     </td>
                                 </tr>
                             </c:forEach> 

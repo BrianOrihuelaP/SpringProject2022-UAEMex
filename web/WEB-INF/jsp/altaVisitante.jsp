@@ -20,27 +20,33 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
-                <ul class="navbar-nav">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="altaBiblioteca.htm">Alta Biblioteca</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="listaBiblioteca.htm">Lista Biblioteca</a>
-                    </li>  
+               <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link" href="altaBiblioteca.htm">Alta Biblioteca</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="listaBiblioteca.htm">Lista Biblioteca</a>
+                </li>  
 
-                    <li class="nav-item active">
-                        <a class="nav-link" href="altaEmpleado.htm">Alta Empleado</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="listaEmpleado.htm">Lista Empleado</a>
-                    </li> 
-                    <li class="nav-item active">
-                        <a class="nav-link" href="altaEmpleado.htm">Alta Visitante</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="listaEmpleado.htm">Lista Visitante</a>
-                    </li> 
-                </ul>
+                <li class="nav-item active">
+                    <a class="nav-link" href="altaEmpleado.htm">Alta Empleado</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="listaEmpleado.htm">Lista Empleado</a>
+                </li> 
+                <li class="nav-item active">
+                    <a class="nav-link" href="altaVisitante.htm">Alta Visitante</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="listaVisitante.htm">Lista Visitante</a>
+                </li> 
+                <li class="nav-item">
+                    <a class="nav-link" href="altaLibro.htm">Alta Libro</a>
+                </li> 
+                <li class="nav-item">
+                    <a class="nav-link" href="listaLibro.htm">Lista Libro</a>
+                </li> 
+            </ul>
             </div>
         </nav>
         <div class="container mt-4 col-lg-a">

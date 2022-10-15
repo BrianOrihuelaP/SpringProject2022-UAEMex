@@ -22,7 +22,7 @@ public class libro {
     private String autor;
     private String editorial;
     private String fPublicacion= simpleDate.format(dat);
-    private int tiemConservacion;
+    private String tiemConservacion;
     private String genero;
     private int ejemplares;
     private String seccion;
@@ -30,7 +30,7 @@ public class libro {
     public libro() {
     }
 
-    public libro(int idLibro, String titulo, String autor, String editorial, int tiemConservacion, String genero, int ejemplares, String seccion) {
+    public libro(int idLibro, String titulo, String autor, String editorial, String tiemConservacion, String genero, int ejemplares, String seccion) {
         this.idLibro = idLibro;
         this.titulo = titulo;
         this.autor = autor;
@@ -113,11 +113,11 @@ public class libro {
         this.fPublicacion = fPublicacion;
     }
 
-    public int getTiemConservacion() {
+    public String getTiemConservacion() {
         return tiemConservacion;
     }
 
-    public void setTiemConservacion(int tiemConservacion) {
+    public void setTiemConservacion(String tiemConservacion) {
         this.tiemConservacion = tiemConservacion;
     }
 
@@ -144,6 +144,8 @@ public class libro {
     public void setSeccion(String seccion) {
         this.seccion = seccion;
     }
+
+   
     
     
 }
