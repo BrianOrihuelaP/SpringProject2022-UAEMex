@@ -19,10 +19,10 @@ Se utilizo el framework Spring MVC
 - Capturas del Funcionamiento del programa
 > Login
 ![Pagina Principal](/screenshots/captura.PNG)
-![Pagina Principal](/screenshots/captura1.PNG)
-![Pagina Principal](/screenshots/captura2.PNG)
-![Pagina Principal](/screenshots/captura3.PNG)
-![Pagina Principal](/screenshots/captura4.PNG)
-![Pagina Principal](/screenshots/captura5.PNG)
+![Captura](/screenshots/Captura1.PNG)
+![Captura](/screenshots/Captura2.PNG)
+![Captura](/screenshots/Captura3.PNG)
+![Captura](/screenshots/Captura4.PNG)
+![Captura](/screenshots/Captura5.PNG)
   > Si has llegado hasta esta parte, gracias por mirar mi repo, espero y te sea de gran ayuda!
 > ![Thank You](https://cloudfront-us-east-1.images.arcpublishing.com/culturacolectiva/CXEJ7EGFWRDPJAJWWQU7RUTOLA.gif)
