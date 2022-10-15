@@ -35,3 +35,16 @@ motivoVisita varchar(50),
 numeroAfiliacion varchar(50),
 telefono bigint,
 direccion varchar(50));
+
+
+create table libro (
+idLibro int primary key auto_increment,
+titulo varchar(50),
+horaIngreso time,
+autor varchar(50),
+editorial varchar(50),
+fPublicacion date,
+tiemConservacion varchar(50),
+genero varchar(50),
+ejemplares int,
+seccion varchar(50));
