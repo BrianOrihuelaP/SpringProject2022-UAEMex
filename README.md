@@ -4,7 +4,7 @@ Proyecto realizado para una materia de desarrollo de software de la universidad 
 Proyecto realizado con Java y si IDE NeatBeans 8.2.
 Se utilizo el framework Spring MVC
 
-> ![Java Spring](https://w7.pngwing.com/pngs/713/936/png-transparent-spring-framework-representational-state-transfer-java-api-for-restful-web-services-microservices-others-text-trademark-logo.png)
+> ![Java Spring](![image](https://user-images.githubusercontent.com/89498777/195995768-df7773f3-b630-4abd-8f3d-929f3f41795e.png)
 
 ## Caracteristicas del proyecto: 
 
@@ -17,6 +17,12 @@ Se utilizo el framework Spring MVC
   - MariaDB
  
 - Capturas del Funcionamiento del programa
-  
+> Login
+![Pagina Principal](/screenshots/captura.PNG)
+![Pagina Principal](/screenshots/captura1.PNG)
+![Pagina Principal](/screenshots/captura2.PNG)
+![Pagina Principal](/screenshots/captura3.PNG)
+![Pagina Principal](/screenshots/captura4.PNG)
+![Pagina Principal](/screenshots/captura5.PNG)
   > Si has llegado hasta esta parte, gracias por mirar mi repo, espero y te sea de gran ayuda!
 > ![Thank You](https://cloudfront-us-east-1.images.arcpublishing.com/culturacolectiva/CXEJ7EGFWRDPJAJWWQU7RUTOLA.gif)
