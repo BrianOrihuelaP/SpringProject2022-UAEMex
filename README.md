@@ -21,8 +21,8 @@ Se utilizo el framework Spring MVC
 ![Pagina Principal](/screnshots/Captura.PNG)
 ![Captura1](/screnshots/Captura1.PNG)
 ![Captura2](/screnshots/Captura2.PNG)
-![Captura3](/screnshots/Captura3.PNG)
-![Captura4](/screnshots/Captura4.PNG)
-![Captura5](/screnshots/Captura5.PNG)
+![Captura3](/screnshots/Captura3.png)
+![Captura4](/screnshots/Captura4.png)
+![Captura5](/screnshots/Captura5.png)
   > Si has llegado hasta esta parte, gracias por mirar mi repo, espero y te sea de gran ayuda!
 > ![Thank You](https://cloudfront-us-east-1.images.arcpublishing.com/culturacolectiva/CXEJ7EGFWRDPJAJWWQU7RUTOLA.gif)
