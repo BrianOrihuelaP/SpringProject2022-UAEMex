@@ -15,6 +15,7 @@ Se utilizo el framework Spring MVC
   - Uso de driver Digital Persona para autenticación por biométricos
 - Bases de Datos
   - MariaDB
+   > La base de datos es la que se encuentra en la raiz de este repo (txt) ;)
  
 - Capturas del Funcionamiento del programa
 > Login
